@@ -1,0 +1,7 @@
+md5: 141c75def48f15ad9cc0ec3f5b361cb7
+outs:
+- md5: 3b67c05578f3348b4b0b0ec5a4332165
+  path: model.h5
+  cache: true
+  metric: false
+  persist: false
