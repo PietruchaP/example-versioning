@@ -1,6 +1,0 @@
-[core]
-    remote = s3remote
-['remote "s3remote"']
-   url = s3://dvc-aims/models
-['remote "myremote"']
-    url = /tmp/dvc-storage
